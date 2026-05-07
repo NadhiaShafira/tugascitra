@@ -37,7 +37,7 @@ Pada tahap ini, dilakukan pembuatan fungsi konvolusi manual untuk menghitung gra
 Metode Canny lebih kompleks karena melibatkan Gaussian Blur dan Hysteresis Thresholding. Saya melakukan pengujian dengan variasi nilai **Sigma ($\sigma$)**, **Low Threshold**, dan **High Threshold**.
 
 ### **Hasil Pengamatan Canny:**
-![Hasil Canny](./assets/canny_sweep.jpg)
+![Hasil Canny](https://github.com/NadhiaShafira/tugascitra/blob/bd5bd59768c4cdeb38dc0ff2e9ca8876c74f1ca8/sspengolahancitra/canny_sweep.png)
 
 **Analisis Data:**
 1. **Pengaruh Sigma ($\sigma$):**
