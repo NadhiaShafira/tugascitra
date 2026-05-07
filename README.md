@@ -1,12 +1,12 @@
 # tugascitra
 
-Nama : 
+**Nama                : Nadhia Shafira**
 
-Kelas :
+**Kelas               : I241E**
 
-Matkul :
+**Matkul              : Pengolahan Citra**
 
-Dosen Pengampu :
+**Dosen Pengampu      : Dr. Muhamad Fatchan, S.Kom., M.Kom.**
 
 ---
 
