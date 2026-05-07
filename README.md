@@ -22,7 +22,7 @@ Proyek ini bertujuan untuk mengimplementasikan dan menganalisis metode deteksi t
 Pada tahap ini, dilakukan pembuatan fungsi konvolusi manual untuk menghitung gradien horizontal (Gx) dan vertikal (Gy).
 
 ### **Hasil Pengamatan Sobel:**
-![Hasil Sobel](./assets/sobel_result.jpg)
+![Hasil Sobel](https://github.com/NadhiaShafira/tugascitra/blob/db25bd5ab6da78c52b5d6f5e5bd52ebc81acf873/sspengolahancitra/sobel_result.png)
 
 **Analisis Data:**
 * **Gx & Gy:** Menunjukkan arah perubahan intensitas. Gx mendeteksi garis vertikal, sedangkan Gy mendeteksi garis horizontal.
