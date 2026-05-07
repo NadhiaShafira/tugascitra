@@ -53,7 +53,7 @@ Metode Canny lebih kompleks karena melibatkan Gaussian Blur dan Hysteresis Thres
 Sebagai implementasi akhir, saya membuat aplikasi interaktif yang memungkinkan pengguna mencoba deteksi tepi pada berbagai jenis gambar secara real-time.
 
 ### **Hasil Pengamatan Web App:**
-![Hasil Web App](./assets/webapp_result.jpg)
+![Hasil Web App](https://github.com/NadhiaShafira/tugascitra/blob/55639108bb113d898800e3bd8d20d74497bbad23/sspengolahancitra/webapp_result.png)
 
 **Analisis Perbandingan (Sobel vs Canny):**
 * **Kualitas Visual:** Canny menghasilkan garis yang jauh lebih tipis dan bersih (single-pixel edges) dibandingkan Sobel yang cenderung tebal.
